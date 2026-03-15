@@ -120,7 +120,7 @@ The system allows suppliers to:
 * Improve inventory tracking
 * Reduce manual record keeping
 
----
+
 
 2. Vehicle Owners / Customers
 
@@ -140,7 +140,6 @@ The system helps customers:
 * Compare prices across suppliers
 * Reduce time spent searching in physical markets
 
----
 
 3. System Administrators
 
