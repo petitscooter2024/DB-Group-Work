@@ -10,9 +10,9 @@ The objectives of this project is to help us, students, to build practical skill
 - And teamwork using GitHub while learning how real-world information systems are structured.
 #### Repository Structure
 This repository contains the following files:
-- ERD.png for the Final ER diagram of the system
+- ERD.pdf for the Final ER diagram of the system
 - project_overview.md for the project explanation, scope, objectives, and stakeholders
-- normalization.md for the normalization process (1NF, 2NF, 3NF)
+- normalization.docx for the normalization process (1NF, 2NF, 3NF)
 - databaseschema.pdf for the relational database schema
 ##### Group Members
 - Ruvunangiza Zawadi Abigael-194215
