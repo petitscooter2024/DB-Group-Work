@@ -18,3 +18,4 @@ This repository contains the following files:
 - Ruvunangiza Zawadi Abigael-194215
 - Yussuf Selig Musa- 191282
 - Jonathan Bibentyo Bashwira-188927
+- Amani Aganze Chris - 225086
