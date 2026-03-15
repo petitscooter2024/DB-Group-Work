@@ -19,4 +19,4 @@ This repository contains the following files:
 - Yussuf Selig Musa- 191282
 - Jonathan Bibentyo Bashwira-188927
 - Amani Aganze Chris - 225086
--MUGISHA ASIIMWE KODJO-222999
+- MUGISHA ASIIMWE KODJO-222999
