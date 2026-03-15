@@ -1,7 +1,7 @@
 # DB-Group-Work
 Database Group Work
 ## Auto Parts E-commerce Database System
-The project is designs a relational database system for an auto part e-commerce web application. The system manages customers, suppliers, vehicles, parts and orders. It will help us store and organize data efficientlywhile avoiding redundacy and inconsistancy.
+The project is designs a relational database system for an auto part e-commerce web application. The system manages customers, Payements, Cars, Employees , SpareParts and orders. It will help us store and organize data efficiently while avoiding redundacy and inconsistancy.
 ### Objectives
 The objectives of this project is to help us, students, to build practical skills in database such as: 
 -Design ERDs
@@ -13,7 +13,7 @@ This repository contains the following files:
 -ERD.png for the Final ER diagram of the system
 -project_overview.md for the project explanation, scope, objectives, and stakeholders
 -normalization.md for the normalization process (1NF, 2NF, 3NF)
--schema.sql for the relational database schema
+-databaseschema.pdf for the relational database schema
 ##### Group Members
 - Ruvunangiza Zawadi Abigael-194215
 - Yussuf Selig Musa- 191282
