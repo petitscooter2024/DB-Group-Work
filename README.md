@@ -16,3 +16,4 @@ This repository contains the following files:
 -schema.sql for the relational database schema
 ##### Group Members
 - Ruvunangiza Zawadi Abigael-194215
+- Yussuf Selig Musa- 191282
